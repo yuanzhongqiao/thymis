@@ -21,6 +21,8 @@
 
 Thymis is an open-source platform designed for managing and configuring IoT devices. Built on the robust NixOS operating system, Thymis ensures consistency, reliability, and ease of management across diverse IoT landscapes. Whether you're managing a few devices or a large-scale deployment, Thymis provides the tools needed to streamline your operations.
 
+Thymis 是一个开源平台，旨在管理和配置 IoT 设备。Thymis 基于强大的 NixOS 操作系统构建，可确保不同 IoT 环境的一致性、可靠性和易管理性。无论您是管理少量设备还是大规模部署，Thymis 都能提供简化操作所需的工具。
+
 The documentation is available at [docs.thymis.io](https://docs.thymis.io).
 
 ---
